@@ -15,10 +15,13 @@
     font-size: 10px;
     margin-right: 0px;
   }
-  .container {
-    width : 50%;
-  }
   img {
-    width : 670px;
+    width : 500px;
+  }
+  .header-pad {
+    font-size : 10px:
+  }
+  container {
+    width : 670px
   }
 }

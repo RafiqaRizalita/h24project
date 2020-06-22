@@ -1,0 +1,18 @@
+@media (max-width: 670px) {
+  .navbar a {
+    float: none;
+    display: block;
+    text-align: left;
+    font-size: 12px;
+  }
+  .header-left {
+    float: none;
+  }
+  .search-container {
+    margin-right: 0px;
+  }
+  .search-container button {
+    font-size: 10px;
+    margin-right: 0px;
+  }
+}

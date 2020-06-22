@@ -16,12 +16,9 @@
     margin-right: 0px;
   }
   img {
-    width : 500px;
+    width : 50%;
   }
   .header-pad {
     font-size : 8px:
-  }
-  .container {
-    width : 670px
   }
 }
